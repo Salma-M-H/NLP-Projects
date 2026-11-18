@@ -2,4 +2,3 @@ no null values
 category column => expected 2 classes (spam/ham) but we got 3 
 ham class with frequecy 4825 out of 5573 => unbalanced data
 Message column 5158 unique values out of 5573 => duplicated data
-
